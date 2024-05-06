@@ -1,3 +1,0 @@
-[submodule "submodule/test_app_submodule"]
-	path = submodule/test_app_submodule
-	url = https://github.com/ee090186/math.git
